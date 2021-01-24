@@ -25,6 +25,7 @@ body {
     height: 100vh;
     background-size: cover;
     background-position: center center;
+    background-image: url('./img/background-header.jpg');
     @include flexCenter(column);
     .text-container {
       @include flexCenter(column);
